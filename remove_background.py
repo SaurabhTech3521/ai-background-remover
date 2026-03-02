@@ -12,7 +12,7 @@ if uploaded_file :
 
     st.subheader("Original Image")
 
-    st.image(img, use_container_width=True)
+    st.image(img, width="stretch")
 
     if st.button("Remove Background"):
         with st.spinner("Removing Background.....Please Wait !!"):
