@@ -35,7 +35,7 @@ streamlit run remove_background.py
 
 ## 📷 Demo
 
-![Demo](screenshots/cat_image.png)
+![Demo](screenshots/cat_image.jpg)
 
 ---
 
