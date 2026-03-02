@@ -35,9 +35,12 @@ streamlit run remove_background.py
 
 ## 📷 Demo
 
-![Demo](screenshot/before.png)
+## 📷 Demo
 
-![Demo](screenshot/after.png)
+<p align="center">
+  <img src="screenshot/before.png" width="45%">
+  <img src="screenshot/after.png" width="45%">
+</p>
 
 ---
 
